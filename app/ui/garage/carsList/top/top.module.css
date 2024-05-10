@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    margin-bottom: 32px;
+    padding: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.btn {
+    height: fit-content;
+    padding: 5px;
+    border: 1px solid violet;
+    color: violet;
+}
+
+.field {
+    display: flex;
+}
